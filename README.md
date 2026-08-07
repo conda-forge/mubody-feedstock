@@ -3,7 +3,7 @@ About mubody-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mubody-feedstock/blob/main/LICENSE.txt)
 
-Home: https://gitlab.com/mubody/mubody
+Home: https://pypi.org/project/mubody/
 
 Package license: MIT
 
