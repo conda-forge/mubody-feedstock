@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.1"
+  version: "0.1.2"
 
 package:
   name: mubody
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mubody/mubody-${{ version }}.tar.gz
-  sha256: 8bf2c7ab662c67781fed82d01ff44e6c09f4889b388185461182f2c3b2f75a4f
+  sha256: c5bc93d6ea7264d90d9770f0cf4a1cbda108a25d4fb65d5ffacb43011784389e
 
 build:
   number: 0
@@ -28,7 +28,6 @@ requirements:
     - matplotlib-base >=3.7
     - spiceypy >=6.0
     - numba >=0.58
-    - requests >=2.31
 
 tests:
   - python:
