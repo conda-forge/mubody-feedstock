@@ -28,7 +28,6 @@ requirements:
     - matplotlib-base >=3.7
     - spiceypy >=6.0
     - numba >=0.58
-    - requests >=2.31
 
 tests:
   - python:
