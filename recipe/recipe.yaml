@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.0"
+  version: "0.4.0"
   python_min: "3.12"
 package:
   name: mubody
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mubody/mubody-${{ version }}.tar.gz
-  sha256: a4464c837f9028f09141ea525c300e789e2de6e4f3c70167f3a65882975c0fe4
+  sha256: 271d6b8ae743f8502a803276c64ecceb8ff16c2f78aaa501b313208df53bb4f0
 
 build:
   number: 0
